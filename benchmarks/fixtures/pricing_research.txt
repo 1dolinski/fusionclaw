@@ -1,0 +1,60 @@
+Competitor X Pricing Analysis — Gathered 2026-02-15
+
+EXECUTIVE SUMMARY:
+Competitor X (AcmeCorp) significantly restructured their pricing on February 1, 2026. The changes primarily target the mid-market and enterprise segments, with price reductions on higher tiers and the introduction of a new "Teams" plan.
+
+DETAILED FINDINGS:
+
+1. PRICING TIERS (as of Feb 2026):
+   - Free: $0/mo — 5 users, 1GB storage, community support (unchanged)
+   - Starter: $12/user/mo — 25 users, 10GB storage, email support (was $15, reduced 20%)
+   - Teams (NEW): $29/user/mo — 100 users, 50GB storage, priority support, SSO
+   - Enterprise: $49/user/mo — unlimited users, unlimited storage, dedicated CSM, SLA (was $65, reduced 24.6%)
+
+2. HISTORICAL PRICING CHANGES:
+   - Q3 2025: Enterprise was $79/user/mo, reduced to $65
+   - Q1 2026: Enterprise reduced further to $49/user/mo
+   - Total reduction over 6 months: 38% on enterprise tier
+   - Pattern suggests aggressive market grab in enterprise segment
+
+3. BILLING MODELS:
+   - Annual billing discount: 20% (was 15%)
+   - Monthly billing: full price
+   - Added quarterly billing option at 10% discount (new)
+   - Enterprise custom pricing available for 500+ users
+
+4. FEATURE GATING:
+   - SSO now included in Teams tier (previously Enterprise only)
+   - API access now available on Starter tier (was Teams only)
+   - Advanced analytics still Enterprise-only
+   - Custom integrations: Enterprise-only
+   - Audit logs: Teams and above (was Enterprise only)
+
+5. COMPETITIVE POSITIONING SIGNALS:
+   - Landing page headline changed from "Scale your business" to "Half the price, twice the power"
+   - Comparison page now directly references our pricing ($89/user enterprise vs their $49)
+   - New ROI calculator on pricing page estimates "62% savings vs leading alternative"
+   - Case study published: "How BigCo saved $340,000/year switching from [our product]"
+
+6. PROMOTIONAL OFFERS:
+   - 90-day free trial for Enterprise (was 14 days)
+   - Migration assistance program: free data migration from top 5 competitors
+   - "Loyalty lock" — price guaranteed for 3 years on annual plans signed before April 2026
+
+7. GEOGRAPHIC PRICING:
+   - India/SEA: 40% discount on all tiers
+   - LATAM: 30% discount on all tiers
+   - EU: pricing in EUR, roughly at parity with USD pricing
+   - No regional pricing changes from previous structure
+
+8. USAGE-BASED COMPONENTS:
+   - API calls: 10,000/mo free, then $0.001/call (new, was unlimited)
+   - Storage overage: $0.10/GB/mo
+   - Compute credits: 100 included, then $0.05/credit
+
+RAW DATA SOURCES:
+- pricing page snapshot (archived Feb 15, 2026)
+- web.archive.org comparison with Nov 2025 version
+- competitor blog post: "New Year, New Pricing" (Jan 28, 2026)
+- Glassdoor reviews mentioning pricing strategy shift
+- LinkedIn posts from competitor's VP of Sales discussing mid-market focus
