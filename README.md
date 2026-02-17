@@ -1,6 +1,6 @@
 # FusionClaw
 
-![FusionClaw](FusionClaw-cover.jpeg)
+<img src="FusionClaw-cover.jpeg" width="33%" />
 
 **Context fusion beats agent chat.**
 
