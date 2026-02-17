@@ -92,7 +92,7 @@ def to_erc8004_metadata(
     return metadata
 
 
-async def register_claw(
+async def register_claw_onchain(
     claw: BaseClaw,
     *,
     chain: str = "base",
