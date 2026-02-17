@@ -4,6 +4,10 @@
 
 **Context fusion beats agent chat.**
 
+[![Token](https://img.shields.io/badge/Token-Base-blue)](https://dexscreener.com/base/0x49081A3Ed4d84ae452132E1c308F04D998639B07) [![Clanker](https://img.shields.io/badge/Clanker-Launch-purple)](https://www.clanker.world/clanker/0x49081A3Ed4d84ae452132E1c308F04D998639B07) [![DexScreener](https://img.shields.io/badge/DexScreener-Chart-green)](https://dexscreener.com/base/0x49081A3Ed4d84ae452132E1c308F04D998639B07)
+
+`0x49081A3Ed4d84ae452132E1c308F04D998639B07`
+
 Multi-agent systems today make agents *talk* to each other — generating tokens to explain what they know, passing summaries back and forth. This is slow, lossy, and expensive. By the time Agent C hears from Agent A (through Agent B's paraphrase), critical details are gone.
 
 FusionClaw takes a different approach: **merge agent context windows directly**. No chatting. No summarization hops. Each agent exports structured state, and the fuser combines them into a single context window for one synthesis call.
