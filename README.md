@@ -1,5 +1,7 @@
 # FusionClaw
 
+![FusionClaw](FusionClaw-cover.jpeg)
+
 **Context fusion beats agent chat.**
 
 Multi-agent systems today make agents *talk* to each other — generating tokens to explain what they know, passing summaries back and forth. This is slow, lossy, and expensive. By the time Agent C hears from Agent A (through Agent B's paraphrase), critical details are gone.
